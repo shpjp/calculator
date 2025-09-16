@@ -60,6 +60,8 @@ calculator/
 └── README.md       # This file
 ```
 
+# MIT LICENSE 2025 Copyright 
+
 ## How to Run
 
 1. Open `index.html` in any modern web browser
