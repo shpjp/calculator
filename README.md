@@ -1,5 +1,5 @@
 # Basic Calculator App
-
+\https://calculator-ten-eta-35.vercel.app/ access directly from here
 A simple, modern calculator built with HTML, CSS, and JavaScript to demonstrate how calculators work.
 
 ## How It Works
